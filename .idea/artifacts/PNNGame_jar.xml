@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PNNGame:jar">
+    <output-path>$PROJECT_DIR$/../../tempStorage/META-INF</output-path>
+    <root id="archive" name="PGame.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../tempStorage/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="PGame" />
+    </root>
+  </artifact>
+</component>
